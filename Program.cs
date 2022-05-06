@@ -14,5 +14,6 @@ class Program
         testShape.Show(testWindow);
         // Show screen
         testWindow.Show();
+        Console.WriteLine("Pog");
     }
 }
