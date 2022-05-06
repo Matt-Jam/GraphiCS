@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CaWm+CmnndVoXPhlVi+MzqL+d0mJA85ZISYv9sbL9KoJyYHXXvvcPtOpRVeE7uWXN6jZRqr3aXEjeUMqlnhAMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matty\\OneDrive\\Documents\\csharpprojects\\GraphiCSharp\\GraphiCS\\GraphiCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matty\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\matty\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
