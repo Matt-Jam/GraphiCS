@@ -3,7 +3,7 @@ namespace GraphiCS;
 public abstract class Shape
 {
     //Each shape must have a colour
-    public readonly Colour Colour;
+    public Colour Colour;
     //Each shape must be showable
     public abstract void Add(Window window);
     //Each shape must have a bounding box

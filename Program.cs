@@ -11,6 +11,7 @@ class Program
         (float, float)[] points2 = {(20,30), (100,10),(50,50)};
         // Makes shapes
         NGon testShape = new NGon(points1, Colour.Blue);
+        testShape.Colour = Color.Green;
         NGon testShape2 = new NGon(points2,Colour.Red);
         // Add shape to screen
         testShape.Add(testWindow);
