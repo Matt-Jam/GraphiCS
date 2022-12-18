@@ -79,7 +79,7 @@ public abstract class Polygon : Shape
         }
         return Intersections;
     }
-    public sealed override void Show(Window window)
+    public sealed override void Add(Window window)
     {
         List<List<int>> Intersections = GetFillLines();
         (Vector2 Min, Vector2 Max) BoundingBox = GetBoundingBox();

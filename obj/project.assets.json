@@ -128,11 +128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\matty\\OneDrive\\Documents\\csharpprojects\\GraphiCSharp\\GraphiCS\\GraphiCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\matty\\OneDrive\\Documents\\GraphiCS\\graphics\\GraphiCSharp.csproj",
       "projectName": "GraphiCSharp",
-      "projectPath": "c:\\Users\\matty\\OneDrive\\Documents\\csharpprojects\\GraphiCSharp\\GraphiCS\\GraphiCSharp.csproj",
+      "projectPath": "C:\\Users\\matty\\OneDrive\\Documents\\GraphiCS\\graphics\\GraphiCSharp.csproj",
       "packagesPath": "C:\\Users\\matty\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\matty\\OneDrive\\Documents\\csharpprojects\\GraphiCSharp\\GraphiCS\\obj\\",
+      "outputPath": "C:\\Users\\matty\\OneDrive\\Documents\\GraphiCS\\graphics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matty\\AppData\\Roaming\\NuGet\\NuGet.Config"

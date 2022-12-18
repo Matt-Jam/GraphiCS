@@ -31,7 +31,7 @@ public class Window
     // Creates bitmap images
     public void Show()
     {
-        BitmapImage.Save("C:/Users/matty/OneDrive/Documents/csharpprojects/GraphiCSharp/test.bmp");
+        BitmapImage.Save("test.bmp");
     }
 
 }
