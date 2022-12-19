@@ -14,10 +14,12 @@ class Program
         testShape.Colour = Color.Green;
         NGon testShape2 = new NGon(points2,Colour.Red);
         Circle testCircle = new Circle((100,100),99,Color.Aqua);
+        Line testLine = new Line((100,100),(200,400),Color.Pink);
         // Add shape to screen
         testShape.Add(testWindow);
         testShape2.Add(testWindow);
         testCircle.Add(testWindow);
+        testLine.Add(testWindow);
         // Show screen
         testWindow.Show();
     }

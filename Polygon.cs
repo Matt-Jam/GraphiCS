@@ -103,7 +103,6 @@ public abstract class Polygon : Shape
                         window.SetPixel(minX + i, currentXList[k] + y, Colour);
                     }
                 }
-
             }
         }
     }
