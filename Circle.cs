@@ -29,6 +29,9 @@ public class Circle : Shape
 
     public override void Add(Window window)
     {
+        // Based on a circle of the same radius but centered on the origin, find the maximum
+        // y displacement for a given x value such that the point is inside the circle, and then use
+        // that to contruct the circle from a series of lines
         int flooredRad = (int)MathF.Floor(Radius);
         for (int x = -flooredRad; x < flooredRad + 1;x++)
         {

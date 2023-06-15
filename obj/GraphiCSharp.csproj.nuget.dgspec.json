@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matty\\OneDrive\\Documents\\GraphiCS\\graphics\\GraphiCSharp.csproj": {}
+    "C:\\Users\\matty\\OneDrive\\Documents\\GraphiCS\\GraphiCS\\GraphiCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matty\\OneDrive\\Documents\\GraphiCS\\graphics\\GraphiCSharp.csproj": {
+    "C:\\Users\\matty\\OneDrive\\Documents\\GraphiCS\\GraphiCS\\GraphiCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matty\\OneDrive\\Documents\\GraphiCS\\graphics\\GraphiCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\matty\\OneDrive\\Documents\\GraphiCS\\GraphiCS\\GraphiCSharp.csproj",
         "projectName": "GraphiCSharp",
-        "projectPath": "C:\\Users\\matty\\OneDrive\\Documents\\GraphiCS\\graphics\\GraphiCSharp.csproj",
+        "projectPath": "C:\\Users\\matty\\OneDrive\\Documents\\GraphiCS\\GraphiCS\\GraphiCSharp.csproj",
         "packagesPath": "C:\\Users\\matty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matty\\OneDrive\\Documents\\GraphiCS\\graphics\\obj\\",
+        "outputPath": "C:\\Users\\matty\\OneDrive\\Documents\\GraphiCS\\GraphiCS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matty\\AppData\\Roaming\\NuGet\\NuGet.Config"
